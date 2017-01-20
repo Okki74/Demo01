@@ -10,6 +10,7 @@ namespace Teht01
     {
         static void Main(string[] args)
         {
+          
         }
     }
 }
